@@ -1,0 +1,5227 @@
+.frame {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  overflow-x: hidden;
+  width: 1680px;
+  height: 20916px;
+  position: relative;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1680px;
+  height: 20819px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 594px;
+  height: 864px;
+  top: 1199px;
+  left: 93px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .text-wrapper {
+  width: 392px;
+  top: 1660px;
+  left: 175px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-2 {
+  width: 453px;
+  top: 1710px;
+  left: 175px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element {
+  width: 396px;
+  top: 1613px;
+  left: 175px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .img {
+  position: absolute;
+  width: 1680px;
+  height: 62px;
+  top: 30px;
+  left: 0;
+}
+
+.frame .text-wrapper-3 {
+  width: 265px;
+  top: 20px;
+  left: 1526px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-weight: 600;
+  color: #000000;
+  font-size: 32px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .layer {
+  position: absolute;
+  width: 42px;
+  height: 39px;
+  top: 21px;
+  left: 1467px;
+}
+
+.frame .line {
+  width: 1px;
+  height: 62px;
+  top: 11px;
+  left: 1449px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-4 {
+  width: 274px;
+  top: 20px;
+  left: 1335px;
+  font-weight: 600;
+  color: #000000;
+  font-size: 32px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector {
+  position: absolute;
+  width: 49px;
+  height: 38px;
+  top: 21px;
+  left: 1277px;
+}
+
+.frame .line-2 {
+  width: 1px;
+  height: 62px;
+  top: 11px;
+  left: 1245px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-5 {
+  width: 400px;
+  top: 20px;
+  left: 1545px;
+  font-weight: 600;
+  color: #000000;
+  font-size: 32px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-2 {
+  position: absolute;
+  width: 40px;
+  height: 36px;
+  top: 21px;
+  left: 1495px;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  width: 197px;
+  top: 24px;
+  left: 102px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 1680px;
+  height: 915px;
+  top: 73px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(188.7, 255, 0) 0%,
+    rgb(198.48, 106.25, 255) 0.01%,
+    rgb(0, 185.94, 163.63) 100%
+  );
+}
+
+.frame .text-wrapper-7 {
+  width: 804px;
+  top: 339px;
+  left: 438px;
+  color: #ffffff;
+  font-size: 150px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  top: 609px;
+  left: 789px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .line-3 {
+  width: 160px;
+  height: 1px;
+  top: 563px;
+  left: 760px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 52px;
+  height: 51px;
+  top: 17px;
+  left: 22px;
+  border-radius: 9px;
+  background: linear-gradient(180deg, rgb(0, 255, 132.6) 0%, rgb(0, 102, 255) 100%);
+}
+
+.frame .e-e {
+  position: absolute;
+  width: 36px;
+  height: 21px;
+  top: 36px;
+  left: 31px;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  width: 594px;
+  height: 864px;
+  top: 1201px;
+  left: 1008px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .img-2 {
+  position: absolute;
+  width: 375px;
+  height: 18px;
+  top: 1782px;
+  left: 1108px;
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  width: 594px;
+  height: 29px;
+  top: 2008px;
+  left: 93px;
+  background: linear-gradient(180deg, rgb(255, 180.12, 92.21) 0%, rgb(255, 219.19, 92.21) 100%);
+}
+
+.frame .rectangle-7 {
+  position: absolute;
+  width: 594px;
+  height: 29px;
+  top: 1225px;
+  left: 93px;
+  background: linear-gradient(180deg, rgb(255, 180.12, 92.21) 0%, rgb(255, 219.19, 92.21) 100%);
+}
+
+.frame .rectangle-8 {
+  position: absolute;
+  width: 594px;
+  height: 32px;
+  top: 1224px;
+  left: 1008px;
+  background: linear-gradient(180deg, rgb(92.21, 255, 196.4) 0%, rgb(92.21, 215.93, 255) 100%);
+}
+
+.frame .rectangle-9 {
+  position: absolute;
+  width: 594px;
+  height: 32px;
+  top: 2006px;
+  left: 1008px;
+  background: linear-gradient(180deg, rgb(92.21, 255, 196.4) 0%, rgb(92.21, 215.93, 255) 100%);
+}
+
+.frame .layer-2 {
+  position: absolute;
+  width: 39px;
+  height: 35px;
+  top: 1541px;
+  left: 1059px;
+}
+
+.frame .element-2 {
+  width: 454px;
+  top: 1547px;
+  left: 1107px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .p {
+  width: 427px;
+  top: 1594px;
+  left: 1107px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-3 {
+  position: absolute;
+  width: 42px;
+  height: 35px;
+  top: 1590px;
+  left: 1054px;
+}
+
+.frame .element-3 {
+  position: absolute;
+  width: 376px;
+  height: 115px;
+  top: 1650px;
+  left: 1107px;
+}
+
+.frame .date {
+  position: absolute;
+  width: 49px;
+  height: 38px;
+  top: 1639px;
+  left: 1050px;
+}
+
+.frame .date-2 {
+  position: absolute;
+  width: 49px;
+  height: 38px;
+  top: 1686px;
+  left: 1050px;
+}
+
+.frame .graph {
+  position: absolute;
+  width: 37px;
+  height: 34px;
+  top: 1730px;
+  left: 1058px;
+}
+
+.frame .vector-4 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 1777px;
+  left: 1060px;
+}
+
+.frame .vector-5 {
+  position: absolute;
+  width: 53px;
+  height: 57px;
+  top: 1897px;
+  left: 1115px;
+}
+
+.frame .text-wrapper-9 {
+  width: 170px;
+  top: 1849px;
+  left: 1220px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-6 {
+  position: absolute;
+  width: 53px;
+  height: 57px;
+  top: 1897px;
+  left: 1191px;
+}
+
+.frame .vector-7 {
+  position: absolute;
+  width: 53px;
+  height: 57px;
+  top: 1897px;
+  left: 1268px;
+}
+
+.frame .vector-8 {
+  position: absolute;
+  width: 53px;
+  height: 57px;
+  top: 1897px;
+  left: 1345px;
+}
+
+.frame .vector-9 {
+  position: absolute;
+  width: 53px;
+  height: 57px;
+  top: 1897px;
+  left: 1421px;
+}
+
+.frame .text-wrapper-10 {
+  width: 278px;
+  top: 1301px;
+  left: 1166px;
+  color: #000000;
+  font-size: 48px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-11 {
+  position: absolute;
+  width: 132px;
+  top: 1463px;
+  left: 1239px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-12 {
+  width: 460px;
+  top: 1319px;
+  left: 160px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-13 {
+  position: absolute;
+  width: 162px;
+  top: 1456px;
+  left: 309px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .graph-2 {
+  position: absolute;
+  width: 36px;
+  height: 35px;
+  top: 1552px;
+  left: 124px;
+}
+
+.frame .element-4 {
+  width: 396px;
+  top: 1560px;
+  left: 175px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-10 {
+  position: absolute;
+  width: 35px;
+  height: 33px;
+  top: 1607px;
+  left: 114px;
+}
+
+.frame .vector-11 {
+  position: absolute;
+  width: 28px;
+  height: 30px;
+  top: 1657px;
+  left: 118px;
+}
+
+.frame .layer-3 {
+  position: absolute;
+  width: 29px;
+  height: 31px;
+  top: 1707px;
+  left: 120px;
+}
+
+.frame .text-wrapper-14 {
+  width: 187px;
+  top: 1843px;
+  left: 296px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-12 {
+  position: absolute;
+  width: 54px;
+  height: 60px;
+  top: 1899px;
+  left: 186px;
+}
+
+.frame .vector-13 {
+  position: absolute;
+  width: 54px;
+  height: 60px;
+  top: 1899px;
+  left: 264px;
+}
+
+.frame .vector-14 {
+  position: absolute;
+  width: 54px;
+  height: 60px;
+  top: 1899px;
+  left: 341px;
+}
+
+.frame .vector-15 {
+  position: absolute;
+  width: 54px;
+  height: 60px;
+  top: 1899px;
+  left: 420px;
+}
+
+.frame .vector-16 {
+  position: absolute;
+  width: 54px;
+  height: 60px;
+  top: 1899px;
+  left: 498px;
+}
+
+.frame .text-wrapper-15 {
+  top: 1033px;
+  left: 273px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 70px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-16 {
+  width: 754px;
+  top: 2372px;
+  left: 484px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 39px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .line-4 {
+  width: 1px;
+  height: 589px;
+  top: 2452px;
+  left: 263px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .line-5 {
+  width: 1254px;
+  height: 1px;
+  top: 3040px;
+  left: 263px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .element-5 {
+  position: absolute;
+  width: 984px;
+  top: 3068px;
+  left: 263px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-6 {
+  width: 25px;
+  top: 2451px;
+  left: 222px;
+  font-weight: 900;
+  color: transparent;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .span {
+  color: #42ff00;
+}
+
+.frame .text-wrapper-17 {
+  color: #ff9900;
+}
+
+.frame .text-wrapper-18 {
+  color: #ffe500;
+}
+
+.frame .text-wrapper-19 {
+  color: #ff0000;
+}
+
+.frame .vector-17 {
+  position: absolute;
+  width: 828px;
+  height: 119px;
+  top: 2600px;
+  left: 270px;
+}
+
+.frame .rectangle-10 {
+  position: absolute;
+  width: 929px;
+  height: 481px;
+  top: 2466px;
+  left: 265px;
+  background-color: #ffffff;
+}
+
+.frame .vector-18 {
+  position: absolute;
+  width: 856px;
+  height: 63px;
+  top: 2616px;
+  left: 264px;
+}
+
+.frame .rectangle-11 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 2607px;
+  left: 1046px;
+  background-color: #ffffff;
+}
+
+.frame .text-wrapper-20 {
+  position: absolute;
+  width: 125px;
+  top: 3119px;
+  left: 1285px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-21 {
+  width: 103px;
+  top: 3119px;
+  left: 1424px;
+  background: linear-gradient(180deg, rgb(0, 163.2, 255) 0%, rgb(20.4, 0, 255) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-weight: 900;
+  color: transparent;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-12 {
+  position: absolute;
+  width: 492px;
+  height: 1077px;
+  top: 3444px;
+  left: 167px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-13 {
+  position: absolute;
+  width: 492px;
+  height: 30px;
+  top: 4454px;
+  left: 167px;
+  background: linear-gradient(180deg, rgb(255, 180.12, 92.21) 0%, rgb(255, 219.19, 92.21) 100%);
+}
+
+.frame .rectangle-14 {
+  position: absolute;
+  width: 492px;
+  height: 33px;
+  top: 3476px;
+  left: 167px;
+  background: linear-gradient(180deg, rgb(255, 180.12, 92.21) 0%, rgb(255, 219.19, 92.21) 100%);
+}
+
+.frame .element-7 {
+  width: 362px;
+  top: 3572px;
+  left: 247px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 28px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-15 {
+  position: absolute;
+  width: 825px;
+  height: 1077px;
+  top: 3444px;
+  left: 730px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-16 {
+  position: absolute;
+  width: 825px;
+  height: 39px;
+  top: 4450px;
+  left: 730px;
+  background: linear-gradient(180deg, rgb(0, 255, 102) 0%, rgb(92.21, 255, 215.93) 100%);
+}
+
+.frame .rectangle-17 {
+  position: absolute;
+  width: 825px;
+  height: 39px;
+  top: 3474px;
+  left: 730px;
+  background: linear-gradient(180deg, rgb(1.31, 255, 133.23) 0%, rgb(0.13, 255, 224.42) 100%);
+}
+
+.frame .line-6 {
+  width: 1px;
+  height: 586px;
+  top: 3649px;
+  left: 773px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .line-7 {
+  width: 755px;
+  height: 1px;
+  top: 4234px;
+  left: 773px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .element-8 {
+  position: absolute;
+  width: 755px;
+  top: 4238px;
+  left: 773px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-22 {
+  position: absolute;
+  width: 34px;
+  top: 3648px;
+  left: 735px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #00ff28;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-23 {
+  width: 34px;
+  top: 3782px;
+  left: 735px;
+  color: #dbff00;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-24 {
+  width: 38px;
+  top: 3917px;
+  left: 735px;
+  color: #ffd600;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-25 {
+  width: 29px;
+  top: 4053px;
+  left: 740px;
+  color: #ff7a00;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-9 {
+  width: 29px;
+  top: 4153px;
+  left: 744px;
+  font-weight: 900;
+  color: #ff0000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-19 {
+  position: absolute;
+  width: 481px;
+  height: 19px;
+  top: 3664px;
+  left: 778px;
+}
+
+.frame .text-wrapper-26 {
+  width: 681px;
+  top: 3537px;
+  left: 797px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 32px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-27 {
+  width: 668px;
+  top: 4815px;
+  left: 546px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-18 {
+  position: absolute;
+  width: 1680px;
+  height: 97px;
+  top: 20819px;
+  left: 0;
+  background-color: #000000;
+}
+
+.frame .site-designed-by {
+  position: absolute;
+  width: 1641px;
+  top: 20852px;
+  left: 39px;
+  font-family: "Ubuntu Mono", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-19 {
+  position: absolute;
+  width: 488px;
+  height: 891px;
+  top: 5021px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-20 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 5850px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(255, 180.12, 92.21) 0%, rgb(255, 219.19, 92.21) 100%);
+}
+
+.frame .rectangle-21 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 5045px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(255, 180.12, 92.21) 0%, rgb(255, 219.19, 92.21) 100%);
+}
+
+.frame .rectangle-22 {
+  position: absolute;
+  width: 489px;
+  height: 891px;
+  top: 5021px;
+  left: 984px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-23 {
+  position: absolute;
+  width: 489px;
+  height: 30px;
+  top: 5850px;
+  left: 984px;
+  background: linear-gradient(180deg, rgb(92.21, 255, 215.93) 0%, rgb(92.21, 235.47, 255) 100%);
+}
+
+.frame .rectangle-24 {
+  position: absolute;
+  width: 489px;
+  height: 34px;
+  top: 5045px;
+  left: 984px;
+  background: linear-gradient(180deg, rgb(92.21, 255, 186.63) 0%, rgb(92.21, 235.47, 255) 100%);
+}
+
+.frame .text-wrapper-28 {
+  width: 169px;
+  top: 5129px;
+  left: 367px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-29 {
+  width: 123px;
+  top: 5143px;
+  left: 1181px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image {
+  width: 129px;
+  height: 139px;
+  top: 5206px;
+  left: 389px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .element-10 {
+  width: 505px;
+  top: 5474px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-20 {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 5471px;
+  left: 246px;
+}
+
+.frame .element-11 {
+  height: 102px;
+  top: 5545px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-3 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 5532px;
+  left: 242px;
+}
+
+.frame .date-4 {
+  position: absolute;
+  width: 40px;
+  height: 38px;
+  top: 5579px;
+  left: 242px;
+}
+
+.frame .vector-21 {
+  position: absolute;
+  width: 30px;
+  height: 31px;
+  top: 5624px;
+  left: 248px;
+}
+
+.frame .vector-22 {
+  position: absolute;
+  width: 21px;
+  height: 14px;
+  top: 5633px;
+  left: 253px;
+}
+
+.frame .date-5 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 5672px;
+  left: 242px;
+}
+
+.frame .element-12 {
+  position: absolute;
+  width: 378px;
+  top: 5679px;
+  left: 288px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-25 {
+  position: absolute;
+  width: 488px;
+  height: 886px;
+  top: 6004px;
+  left: 983px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-26 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 6028px;
+  left: 983px;
+  background: linear-gradient(180deg, rgb(212.68, 92.21, 255) 0%, rgb(255, 92.21, 228.95) 100%);
+}
+
+.frame .text-wrapper-30 {
+  width: 108px;
+  top: 6102px;
+  left: 1173px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-13 {
+  width: 351px;
+  top: 6475px;
+  left: 1064px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-23 {
+  position: absolute;
+  width: 36px;
+  height: 34px;
+  top: 6472px;
+  left: 1022px;
+}
+
+.frame .element-14 {
+  height: 105px;
+  top: 6532px;
+  left: 1064px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-6 {
+  position: absolute;
+  width: 40px;
+  height: 42px;
+  top: 6518px;
+  left: 1018px;
+}
+
+.frame .date-7 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 6566px;
+  left: 1018px;
+}
+
+.frame .vector-24 {
+  position: absolute;
+  width: 32px;
+  height: 33px;
+  top: 6608px;
+  left: 1026px;
+}
+
+.frame .vector-25 {
+  position: absolute;
+  width: 18px;
+  height: 16px;
+  top: 6617px;
+  left: 1031px;
+}
+
+.frame .date-8 {
+  position: absolute;
+  width: 40px;
+  height: 37px;
+  top: 6656px;
+  left: 1018px;
+}
+
+.frame .element-15 {
+  width: 378px;
+  top: 6662px;
+  left: 1064px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-27 {
+  position: absolute;
+  width: 488px;
+  height: 886px;
+  top: 6004px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-28 {
+  position: absolute;
+  width: 488px;
+  height: 33px;
+  top: 6832px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(92.21, 206.16, 255) 0%, rgb(92.21, 128.03, 255) 95.6%);
+}
+
+.frame .rectangle-29 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 6028px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(92.21, 186.63, 255) 0%, rgb(92.21, 128.03, 255) 100%);
+}
+
+.frame .text-wrapper-31 {
+  width: 140px;
+  top: 6100px;
+  left: 382px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-16 {
+  width: 353px;
+  top: 6475px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-26 {
+  position: absolute;
+  width: 36px;
+  height: 34px;
+  top: 6471px;
+  left: 244px;
+}
+
+.frame .element-17 {
+  height: 105px;
+  top: 6532px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-9 {
+  position: absolute;
+  width: 40px;
+  height: 42px;
+  top: 6518px;
+  left: 242px;
+}
+
+.frame .date-10 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 6566px;
+  left: 242px;
+}
+
+.frame .vector-27 {
+  position: absolute;
+  width: 30px;
+  height: 33px;
+  top: 6607px;
+  left: 247px;
+}
+
+.frame .vector-28 {
+  position: absolute;
+  width: 21px;
+  height: 16px;
+  top: 6617px;
+  left: 254px;
+}
+
+.frame .date-11 {
+  position: absolute;
+  width: 40px;
+  height: 37px;
+  top: 6656px;
+  left: 242px;
+}
+
+.frame .element-18 {
+  width: 378px;
+  top: 6662px;
+  left: 288px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-19 {
+  width: 353px;
+  top: 5499px;
+  left: 1066px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-29 {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 5496px;
+  left: 1023px;
+}
+
+.frame .element-20 {
+  height: 105px;
+  top: 5554px;
+  left: 1066px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-12 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 5542px;
+  left: 1020px;
+}
+
+.frame .date-13 {
+  position: absolute;
+  width: 39px;
+  height: 41px;
+  top: 5587px;
+  left: 1020px;
+}
+
+.frame .vector-30 {
+  position: absolute;
+  width: 28px;
+  height: 30px;
+  top: 5632px;
+  left: 1026px;
+}
+
+.frame .vector-31 {
+  position: absolute;
+  width: 20px;
+  height: 16px;
+  top: 5639px;
+  left: 1032px;
+}
+
+.frame .date-14 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 5676px;
+  left: 1020px;
+}
+
+.frame .element-21 {
+  position: absolute;
+  width: 344px;
+  height: 17px;
+  top: 5688px;
+  left: 1066px;
+}
+
+.frame .image-2 {
+  width: 135px;
+  height: 139px;
+  top: 5206px;
+  left: 1175px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .user {
+  position: absolute;
+  width: 131px;
+  height: 137px;
+  top: 6175px;
+  left: 386px;
+}
+
+.frame .rectangle-30 {
+  position: absolute;
+  width: 488px;
+  height: 33px;
+  top: 6832px;
+  left: 983px;
+  background: linear-gradient(180deg, rgb(212.68, 92.21, 255) 0%, rgb(255, 92.21, 228.95) 100%);
+}
+
+.frame .rectangle-31 {
+  position: absolute;
+  width: 493px;
+  height: 886px;
+  top: 6989px;
+  left: 202px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-32 {
+  position: absolute;
+  width: 493px;
+  height: 30px;
+  top: 7013px;
+  left: 202px;
+  background: linear-gradient(180deg, rgb(255, 100.48, 100.48) 0%, rgb(255, 0, 137.7) 100%);
+}
+
+.frame .rectangle-33 {
+  position: absolute;
+  width: 493px;
+  height: 34px;
+  top: 7815px;
+  left: 202px;
+  background: linear-gradient(180deg, rgb(255, 100.48, 100.48) 0%, rgb(255, 0, 137.7) 100%);
+}
+
+.frame .text-wrapper-32 {
+  width: 110px;
+  top: 7088px;
+  left: 405px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-22 {
+  width: 351px;
+  top: 7460px;
+  left: 284px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-32 {
+  position: absolute;
+  width: 36px;
+  height: 34px;
+  top: 7457px;
+  left: 241px;
+}
+
+.frame .element-23 {
+  height: 102px;
+  top: 7517px;
+  left: 284px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-15 {
+  position: absolute;
+  width: 42px;
+  height: 37px;
+  top: 7507px;
+  left: 238px;
+}
+
+.frame .date-16 {
+  position: absolute;
+  width: 42px;
+  height: 38px;
+  top: 7553px;
+  left: 238px;
+}
+
+.frame .vector-33 {
+  position: absolute;
+  width: 30px;
+  height: 34px;
+  top: 7591px;
+  left: 244px;
+}
+
+.frame .vector-34 {
+  position: absolute;
+  width: 19px;
+  height: 18px;
+  top: 7601px;
+  left: 250px;
+}
+
+.frame .date-17 {
+  position: absolute;
+  width: 42px;
+  height: 35px;
+  top: 7641px;
+  left: 238px;
+}
+
+.frame .element-24 {
+  width: 377px;
+  top: 7645px;
+  left: 284px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-3 {
+  width: 133px;
+  height: 139px;
+  top: 7172px;
+  left: 394px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-34 {
+  position: absolute;
+  width: 488px;
+  height: 886px;
+  top: 6989px;
+  left: 983px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-35 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 7013px;
+  left: 983px;
+  background: linear-gradient(180deg, rgb(255, 134.71, 214.1) 0%, rgb(228.94, 154.78, 255) 100%);
+}
+
+.frame .rectangle-36 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 7815px;
+  left: 983px;
+  background: linear-gradient(180deg, rgb(255, 134.71, 214.1) 0%, rgb(228.94, 154.78, 255) 100%);
+}
+
+.frame .text-wrapper-33 {
+  width: 112px;
+  top: 7091px;
+  left: 1184px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-25 {
+  width: 351px;
+  top: 7460px;
+  left: 1064px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-35 {
+  position: absolute;
+  width: 36px;
+  height: 34px;
+  top: 7457px;
+  left: 1022px;
+}
+
+.frame .element-26 {
+  height: 105px;
+  top: 7517px;
+  left: 1064px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-18 {
+  position: absolute;
+  width: 40px;
+  height: 37px;
+  top: 7507px;
+  left: 1018px;
+}
+
+.frame .date-19 {
+  position: absolute;
+  width: 40px;
+  height: 38px;
+  top: 7553px;
+  left: 1018px;
+}
+
+.frame .vector-36 {
+  position: absolute;
+  width: 32px;
+  height: 34px;
+  top: 7595px;
+  left: 1022px;
+}
+
+.frame .vector-37 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 7601px;
+  left: 1029px;
+}
+
+.frame .date-20 {
+  position: absolute;
+  width: 40px;
+  height: 35px;
+  top: 7641px;
+  left: 1018px;
+}
+
+.frame .element-27 {
+  width: 378px;
+  top: 7645px;
+  left: 1064px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-4 {
+  width: 134px;
+  height: 139px;
+  top: 7172px;
+  left: 1173px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-37 {
+  position: absolute;
+  width: 488px;
+  height: 891px;
+  top: 7967px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-38 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 7995px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(255, 91.88, 0.13) 0%, rgb(255, 137.7, 0) 100%);
+}
+
+.frame .rectangle-39 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 8800px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(255, 91.88, 0.13) 0%, rgb(255, 137.7, 0) 100%);
+}
+
+.frame .text-wrapper-34 {
+  width: 89px;
+  top: 8065px;
+  left: 407px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-28 {
+  width: 353px;
+  top: 8443px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-38 {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 8444px;
+  left: 245px;
+}
+
+.frame .element-29 {
+  height: 105px;
+  top: 8500px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-21 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 8490px;
+  left: 242px;
+}
+
+.frame .date-22 {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 8537px;
+  left: 242px;
+}
+
+.frame .vector-39 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 8580px;
+  left: 248px;
+}
+
+.frame .vector-40 {
+  position: absolute;
+  width: 21px;
+  height: 16px;
+  top: 8586px;
+  left: 253px;
+}
+
+.frame .date-23 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 8620px;
+  left: 242px;
+}
+
+.frame .element-30 {
+  width: 378px;
+  top: 8625px;
+  left: 288px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .user-2 {
+  position: absolute;
+  width: 131px;
+  height: 136px;
+  top: 8148px;
+  left: 386px;
+}
+
+.frame .rectangle-40 {
+  position: absolute;
+  width: 488px;
+  height: 889px;
+  top: 8952px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-41 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 8976px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(67.47, 67.47, 67.47) 0%, rgb(0, 0, 0) 100%);
+}
+
+.frame .rectangle-42 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 9778px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(67.47, 67.47, 67.47) 0%, rgb(0, 0, 0) 100%);
+}
+
+.frame .div-2 {
+  width: 154px;
+  top: 9048px;
+  left: 379px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-35 {
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-36 {
+  font-size: 24px;
+}
+
+.frame .element-31 {
+  width: 353px;
+  top: 9426px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-41 {
+  position: absolute;
+  width: 36px;
+  height: 31px;
+  top: 9424px;
+  left: 242px;
+}
+
+.frame .element-32 {
+  height: 102px;
+  top: 9483px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-24 {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 9471px;
+  left: 242px;
+}
+
+.frame .date-25 {
+  position: absolute;
+  width: 40px;
+  height: 35px;
+  top: 9521px;
+  left: 242px;
+}
+
+.frame .vector-42 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 9563px;
+  left: 249px;
+}
+
+.frame .vector-43 {
+  position: absolute;
+  width: 21px;
+  height: 14px;
+  top: 9570px;
+  left: 254px;
+}
+
+.frame .date-26 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 9605px;
+  left: 242px;
+}
+
+.frame .element-33 {
+  width: 378px;
+  top: 9610px;
+  left: 288px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .user-3 {
+  position: absolute;
+  width: 131px;
+  height: 139px;
+  top: 9128px;
+  left: 390px;
+}
+
+.frame .rectangle-43 {
+  position: absolute;
+  width: 488px;
+  height: 891px;
+  top: 7967px;
+  left: 983px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-44 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 8800px;
+  left: 983px;
+  background: linear-gradient(180deg, rgb(92.21, 206.16, 255) 0%, rgb(92.21, 128.03, 255) 95.6%);
+}
+
+.frame .rectangle-45 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 7995px;
+  left: 983px;
+  background: linear-gradient(180deg, rgb(92.21, 186.63, 255) 0%, rgb(92.21, 128.03, 255) 100%);
+}
+
+.frame .text-wrapper-37 {
+  width: 95px;
+  top: 8065px;
+  left: 1186px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-34 {
+  width: 351px;
+  top: 8443px;
+  left: 1064px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-44 {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 8444px;
+  left: 1018px;
+}
+
+.frame .element-35 {
+  height: 105px;
+  top: 8500px;
+  left: 1064px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-27 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 8490px;
+  left: 1018px;
+}
+
+.frame .date-28 {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 8537px;
+  left: 1018px;
+}
+
+.frame .vector-45 {
+  position: absolute;
+  width: 32px;
+  height: 30px;
+  top: 8583px;
+  left: 1022px;
+}
+
+.frame .vector-46 {
+  position: absolute;
+  width: 18px;
+  height: 16px;
+  top: 8590px;
+  left: 1029px;
+}
+
+.frame .date-29 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 8620px;
+  left: 1018px;
+}
+
+.frame .element-36 {
+  width: 378px;
+  top: 8625px;
+  left: 1064px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-46 {
+  position: absolute;
+  width: 489px;
+  height: 889px;
+  top: 8952px;
+  left: 979px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-47 {
+  position: absolute;
+  width: 489px;
+  height: 34px;
+  top: 8976px;
+  left: 979px;
+  background: linear-gradient(180deg, rgb(115, 92.21, 255) 0%, rgb(68.6, 109.61, 255) 100%);
+}
+
+.frame .rectangle-48 {
+  position: absolute;
+  width: 489px;
+  height: 30px;
+  top: 9778px;
+  left: 979px;
+  background: linear-gradient(180deg, rgb(115, 92.21, 255) 0%, rgb(68.6, 109.61, 255) 100%);
+}
+
+.frame .text-wrapper-38 {
+  width: 125px;
+  top: 9050px;
+  left: 1177px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-37 {
+  width: 352px;
+  top: 9426px;
+  left: 1059px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-47 {
+  position: absolute;
+  width: 34px;
+  height: 31px;
+  top: 9424px;
+  left: 1018px;
+}
+
+.frame .element-38 {
+  height: 105px;
+  top: 9483px;
+  left: 1059px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-30 {
+  position: absolute;
+  width: 43px;
+  height: 41px;
+  top: 9471px;
+  left: 1013px;
+}
+
+.frame .date-31 {
+  position: absolute;
+  width: 43px;
+  height: 35px;
+  top: 9521px;
+  left: 1013px;
+}
+
+.frame .vector-48 {
+  position: absolute;
+  width: 27px;
+  height: 30px;
+  top: 9563px;
+  left: 1021px;
+}
+
+.frame .vector-49 {
+  position: absolute;
+  width: 19px;
+  height: 14px;
+  top: 9571px;
+  left: 1026px;
+}
+
+.frame .date-32 {
+  position: absolute;
+  width: 43px;
+  height: 39px;
+  top: 9605px;
+  left: 1013px;
+}
+
+.frame .element-39 {
+  width: 378px;
+  top: 9610px;
+  left: 1059px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .user-4 {
+  position: absolute;
+  width: 129px;
+  height: 139px;
+  top: 9128px;
+  left: 1173px;
+}
+
+.frame .rectangle-49 {
+  position: absolute;
+  width: 489px;
+  height: 886px;
+  top: 9935px;
+  left: 979px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-50 {
+  position: absolute;
+  width: 489px;
+  height: 34px;
+  top: 9959px;
+  left: 979px;
+  background: linear-gradient(180deg, rgb(255, 223.6, 112.28) 0%, rgb(206.54, 255, 68.6) 100%);
+}
+
+.frame .rectangle-51 {
+  position: absolute;
+  width: 489px;
+  height: 34px;
+  top: 10761px;
+  left: 979px;
+  background: linear-gradient(180deg, rgb(255, 223.6, 112.28) 0%, rgb(206.54, 255, 68.6) 100%);
+}
+
+.frame .text-wrapper-39 {
+  width: 200px;
+  top: 10028px;
+  left: 1138px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-40 {
+  width: 352px;
+  top: 10406px;
+  left: 1059px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-50 {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 10403px;
+  left: 1018px;
+}
+
+.frame .element-41 {
+  height: 105px;
+  top: 10463px;
+  left: 1059px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-33 {
+  position: absolute;
+  width: 43px;
+  height: 42px;
+  top: 10453px;
+  left: 1013px;
+}
+
+.frame .date-34 {
+  position: absolute;
+  width: 43px;
+  height: 39px;
+  top: 10504px;
+  left: 1013px;
+}
+
+.frame .vector-51 {
+  position: absolute;
+  width: 27px;
+  height: 33px;
+  top: 10543px;
+  left: 1021px;
+}
+
+.frame .vector-52 {
+  position: absolute;
+  width: 19px;
+  height: 16px;
+  top: 10552px;
+  left: 1026px;
+}
+
+.frame .date-35 {
+  position: absolute;
+  width: 43px;
+  height: 36px;
+  top: 10588px;
+  left: 1013px;
+}
+
+.frame .element-42 {
+  width: 378px;
+  top: 10593px;
+  left: 1059px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .user-5 {
+  position: absolute;
+  width: 129px;
+  height: 137px;
+  top: 10111px;
+  left: 1173px;
+}
+
+.frame .rectangle-52 {
+  position: absolute;
+  width: 488px;
+  height: 890px;
+  top: 10918px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-53 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 10944px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(0, 255, 56.1) 0%, rgb(125.27, 184.94, 255) 100%);
+}
+
+.frame .rectangle-54 {
+  position: absolute;
+  width: 488px;
+  height: 32px;
+  top: 11742px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(0, 255, 56.1) 0%, rgb(125.27, 184.94, 255) 100%);
+}
+
+.frame .text-wrapper-40 {
+  width: 98px;
+  top: 11014px;
+  left: 416px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-43 {
+  width: 353px;
+  top: 11391px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-53 {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 11390px;
+  left: 244px;
+}
+
+.frame .element-44 {
+  height: 105px;
+  top: 11450px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-36 {
+  position: absolute;
+  width: 40px;
+  height: 37px;
+  top: 11438px;
+  left: 242px;
+}
+
+.frame .date-37 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 11483px;
+  left: 242px;
+}
+
+.frame .vector-54 {
+  position: absolute;
+  width: 30px;
+  height: 34px;
+  top: 11522px;
+  left: 247px;
+}
+
+.frame .vector-55 {
+  position: absolute;
+  width: 21px;
+  height: 18px;
+  top: 11530px;
+  left: 252px;
+}
+
+.frame .date-38 {
+  position: absolute;
+  width: 40px;
+  height: 38px;
+  top: 11572px;
+  left: 242px;
+}
+
+.frame .element-45 {
+  width: 378px;
+  top: 11576px;
+  left: 288px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .user-6 {
+  position: absolute;
+  width: 131px;
+  height: 141px;
+  top: 11092px;
+  left: 401px;
+}
+
+.frame .rectangle-55 {
+  position: absolute;
+  width: 488px;
+  height: 891px;
+  top: 11898px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-56 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 11926px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(255, 122.4, 0) 0%, rgb(255, 125.27, 125.27) 100%);
+}
+
+.frame .rectangle-57 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 12729px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(255, 122.4, 0) 0%, rgb(255, 125.27, 125.27) 100%);
+}
+
+.frame .text-wrapper-41 {
+  width: 132px;
+  top: 11994px;
+  left: 400px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-46 {
+  width: 353px;
+  top: 12374px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-56 {
+  position: absolute;
+  width: 36px;
+  height: 29px;
+  top: 12371px;
+  left: 244px;
+}
+
+.frame .element-47 {
+  height: 105px;
+  top: 12431px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-39 {
+  position: absolute;
+  width: 40px;
+  height: 43px;
+  top: 12417px;
+  left: 242px;
+}
+
+.frame .date-40 {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 12468px;
+  left: 242px;
+}
+
+.frame .vector-57 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 12509px;
+  left: 247px;
+}
+
+.frame .vector-58 {
+  position: absolute;
+  width: 21px;
+  height: 16px;
+  top: 12516px;
+  left: 252px;
+}
+
+.frame .date-41 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 12551px;
+  left: 242px;
+}
+
+.frame .element-48 {
+  width: 378px;
+  top: 12556px;
+  left: 288px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-58 {
+  position: absolute;
+  width: 487px;
+  height: 890px;
+  top: 10918px;
+  left: 977px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-59 {
+  position: absolute;
+  width: 487px;
+  height: 30px;
+  top: 10944px;
+  left: 977px;
+  background: linear-gradient(180deg, rgb(255, 0, 0) 0%, rgb(134.76, 0, 0) 100%);
+}
+
+.frame .rectangle-60 {
+  position: absolute;
+  width: 487px;
+  height: 32px;
+  top: 11742px;
+  left: 977px;
+  background: linear-gradient(180deg, rgb(255, 0, 0) 0%, rgb(134.76, 0, 0) 100%);
+}
+
+.frame .text-wrapper-42 {
+  width: 197px;
+  top: 11019px;
+  left: 1135px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-49 {
+  width: 351px;
+  top: 11391px;
+  left: 1058px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-59 {
+  position: absolute;
+  width: 35px;
+  height: 30px;
+  top: 11390px;
+  left: 1013px;
+}
+
+.frame .element-50 {
+  height: 105px;
+  top: 11450px;
+  left: 1058px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-42 {
+  position: absolute;
+  width: 38px;
+  height: 37px;
+  top: 11438px;
+  left: 1011px;
+}
+
+.frame .date-43 {
+  position: absolute;
+  width: 38px;
+  height: 39px;
+  top: 11483px;
+  left: 1011px;
+}
+
+.frame .vector-60 {
+  position: absolute;
+  width: 28px;
+  height: 34px;
+  top: 11529px;
+  left: 1016px;
+}
+
+.frame .vector-61 {
+  position: absolute;
+  width: 23px;
+  height: 18px;
+  top: 11537px;
+  left: 1021px;
+}
+
+.frame .date-44 {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 11572px;
+  left: 1011px;
+}
+
+.frame .element-51 {
+  width: 376px;
+  top: 11576px;
+  left: 1058px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .user-7 {
+  position: absolute;
+  width: 132px;
+  height: 141px;
+  top: 11092px;
+  left: 1169px;
+}
+
+.frame .rectangle-61 {
+  position: absolute;
+  width: 488px;
+  height: 886px;
+  top: 9935px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-62 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 9959px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(92.21, 255, 176.86) 0%, rgb(68.6, 255, 98.43) 100%);
+}
+
+.frame .rectangle-63 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 10761px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(92.21, 255, 176.86) 0%, rgb(68.6, 255, 98.43) 100%);
+}
+
+.frame .text-wrapper-43 {
+  width: 118px;
+  top: 10028px;
+  left: 418px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-52 {
+  width: 353px;
+  top: 10406px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-62 {
+  position: absolute;
+  width: 36px;
+  height: 34px;
+  top: 10403px;
+  left: 245px;
+}
+
+.frame .element-53 {
+  height: 105px;
+  top: 10463px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-45 {
+  position: absolute;
+  width: 40px;
+  height: 42px;
+  top: 10453px;
+  left: 242px;
+}
+
+.frame .date-46 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 10504px;
+  left: 242px;
+}
+
+.frame .vector-63 {
+  position: absolute;
+  width: 30px;
+  height: 33px;
+  top: 10543px;
+  left: 245px;
+}
+
+.frame .vector-64 {
+  position: absolute;
+  width: 21px;
+  height: 16px;
+  top: 10551px;
+  left: 254px;
+}
+
+.frame .date-47 {
+  position: absolute;
+  width: 40px;
+  height: 36px;
+  top: 10588px;
+  left: 242px;
+}
+
+.frame .element-54 {
+  width: 378px;
+  top: 10593px;
+  left: 288px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-5 {
+  width: 136px;
+  height: 140px;
+  top: 10107px;
+  left: 396px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-6 {
+  width: 136px;
+  height: 137px;
+  top: 12076px;
+  left: 396px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-64 {
+  position: absolute;
+  width: 487px;
+  height: 891px;
+  top: 11898px;
+  left: 977px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-65 {
+  position: absolute;
+  width: 487px;
+  height: 30px;
+  top: 11926px;
+  left: 977px;
+  background: linear-gradient(180deg, rgb(255, 137.7, 0) 0%, rgb(30, 30, 30) 100%);
+}
+
+.frame .rectangle-66 {
+  position: absolute;
+  width: 487px;
+  height: 30px;
+  top: 12729px;
+  left: 977px;
+  background: linear-gradient(180deg, rgb(255, 137.7, 0) 0%, rgb(30, 30, 30) 100%);
+}
+
+.frame .text-wrapper-44 {
+  width: 156px;
+  top: 11994px;
+  left: 1156px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-55 {
+  width: 351px;
+  top: 12374px;
+  left: 1058px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-65 {
+  position: absolute;
+  width: 35px;
+  height: 29px;
+  top: 12371px;
+  left: 1013px;
+}
+
+.frame .element-56 {
+  height: 105px;
+  top: 12431px;
+  left: 1058px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-48 {
+  position: absolute;
+  width: 38px;
+  height: 43px;
+  top: 12417px;
+  left: 1011px;
+}
+
+.frame .date-49 {
+  position: absolute;
+  width: 38px;
+  height: 41px;
+  top: 12468px;
+  left: 1011px;
+}
+
+.frame .vector-66 {
+  position: absolute;
+  width: 28px;
+  height: 30px;
+  top: 12511px;
+  left: 1016px;
+}
+
+.frame .vector-67 {
+  position: absolute;
+  width: 23px;
+  height: 16px;
+  top: 12516px;
+  left: 1021px;
+}
+
+.frame .date-50 {
+  position: absolute;
+  width: 38px;
+  height: 39px;
+  top: 12551px;
+  left: 1011px;
+}
+
+.frame .element-57 {
+  width: 376px;
+  top: 12556px;
+  left: 1058px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-7 {
+  width: 135px;
+  height: 137px;
+  top: 6175px;
+  left: 1161px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-8 {
+  width: 134px;
+  height: 136px;
+  top: 8148px;
+  left: 1167px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .user-8 {
+  position: absolute;
+  width: 132px;
+  height: 137px;
+  top: 12076px;
+  left: 1169px;
+}
+
+.frame .rectangle-67 {
+  position: absolute;
+  width: 488px;
+  height: 890px;
+  top: 12882px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-68 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 12907px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(0, 255, 25.5) 0%, rgb(86.04, 153.65, 0) 100%);
+}
+
+.frame .rectangle-69 {
+  position: absolute;
+  width: 488px;
+  height: 32px;
+  top: 13707px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(0, 255, 25.5) 0%, rgb(86.04, 153.65, 0) 100%);
+}
+
+.frame .text-wrapper-45 {
+  width: 163px;
+  top: 12975px;
+  left: 390px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-58 {
+  width: 353px;
+  top: 13357px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-68 {
+  position: absolute;
+  width: 36px;
+  height: 35px;
+  top: 13350px;
+  left: 245px;
+}
+
+.frame .element-59 {
+  height: 105px;
+  top: 13414px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-51 {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 13402px;
+  left: 242px;
+}
+
+.frame .date-52 {
+  position: absolute;
+  width: 40px;
+  height: 37px;
+  top: 13452px;
+  left: 242px;
+}
+
+.frame .vector-69 {
+  position: absolute;
+  width: 30px;
+  height: 37px;
+  top: 13489px;
+  left: 247px;
+}
+
+.frame .vector-70 {
+  position: absolute;
+  width: 21px;
+  height: 14px;
+  top: 13499px;
+  left: 253px;
+}
+
+.frame .date-53 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 13536px;
+  left: 242px;
+}
+
+.frame .element-60 {
+  width: 378px;
+  top: 13542px;
+  left: 288px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-9 {
+  width: 134px;
+  height: 139px;
+  top: 13059px;
+  left: 390px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-70 {
+  position: absolute;
+  width: 489px;
+  height: 890px;
+  top: 12882px;
+  left: 989px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-71 {
+  position: absolute;
+  width: 489px;
+  height: 34px;
+  top: 12907px;
+  left: 989px;
+  background: linear-gradient(180deg, rgb(0, 40.8, 255) 0%, rgb(0, 18.92, 118.23) 100%);
+}
+
+.frame .rectangle-72 {
+  position: absolute;
+  width: 489px;
+  height: 32px;
+  top: 13707px;
+  left: 989px;
+  background: linear-gradient(180deg, rgb(0, 40.8, 255) 0%, rgb(0, 18.92, 118.23) 100%);
+}
+
+.frame .text-wrapper-46 {
+  width: 109px;
+  top: 12973px;
+  left: 1185px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-61 {
+  width: 352px;
+  top: 13357px;
+  left: 1069px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-71 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 13350px;
+  left: 1026px;
+}
+
+.frame .element-62 {
+  height: 105px;
+  top: 13414px;
+  left: 1069px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-54 {
+  position: absolute;
+  width: 42px;
+  height: 41px;
+  top: 13402px;
+  left: 1022px;
+}
+
+.frame .date-55 {
+  position: absolute;
+  width: 42px;
+  height: 37px;
+  top: 13452px;
+  left: 1022px;
+}
+
+.frame .vector-72 {
+  position: absolute;
+  width: 27px;
+  height: 37px;
+  top: 13494px;
+  left: 1029px;
+}
+
+.frame .vector-73 {
+  position: absolute;
+  width: 21px;
+  height: 14px;
+  top: 13506px;
+  left: 1035px;
+}
+
+.frame .date-56 {
+  position: absolute;
+  width: 42px;
+  height: 39px;
+  top: 13536px;
+  left: 1022px;
+}
+
+.frame .element-63 {
+  width: 378px;
+  top: 13542px;
+  left: 1069px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-10 {
+  width: 134px;
+  height: 139px;
+  top: 13059px;
+  left: 1173px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-73 {
+  position: absolute;
+  width: 488px;
+  height: 886px;
+  top: 13866px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-74 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 13890px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(0, 255, 147.9) 0%, rgb(0, 127.68, 66.39) 100%);
+}
+
+.frame .rectangle-75 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 14692px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(0, 255, 147.9) 0%, rgb(0, 127.68, 66.39) 100%);
+}
+
+.frame .text-wrapper-47 {
+  width: 110px;
+  top: 13956px;
+  left: 402px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-64 {
+  width: 353px;
+  top: 14337px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-74 {
+  position: absolute;
+  width: 36px;
+  height: 34px;
+  top: 14334px;
+  left: 245px;
+}
+
+.frame .element-65 {
+  height: 105px;
+  top: 14394px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-57 {
+  position: absolute;
+  width: 40px;
+  height: 38px;
+  top: 14384px;
+  left: 242px;
+}
+
+.frame .date-58 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 14435px;
+  left: 242px;
+}
+
+.frame .vector-75 {
+  position: absolute;
+  width: 30px;
+  height: 33px;
+  top: 14477px;
+  left: 248px;
+}
+
+.frame .vector-76 {
+  position: absolute;
+  width: 21px;
+  height: 19px;
+  top: 14480px;
+  left: 253px;
+}
+
+.frame .date-59 {
+  position: absolute;
+  width: 40px;
+  height: 36px;
+  top: 14519px;
+  left: 242px;
+}
+
+.frame .element-66 {
+  width: 378px;
+  top: 14524px;
+  left: 288px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-11 {
+  width: 134px;
+  height: 141px;
+  top: 14042px;
+  left: 390px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-76 {
+  position: absolute;
+  width: 489px;
+  height: 886px;
+  top: 13866px;
+  left: 989px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-77 {
+  position: absolute;
+  width: 489px;
+  height: 30px;
+  top: 13890px;
+  left: 989px;
+  background: linear-gradient(180deg, rgb(255, 198.9, 0) 0%, rgb(180.8, 151.87, 0) 100%);
+}
+
+.frame .rectangle-78 {
+  position: absolute;
+  width: 489px;
+  height: 34px;
+  top: 14692px;
+  left: 989px;
+  background: linear-gradient(180deg, rgb(255, 198.9, 0) 0%, rgb(180.8, 151.87, 0) 100%);
+}
+
+.frame .text-wrapper-48 {
+  width: 136px;
+  top: 13956px;
+  left: 1176px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-67 {
+  width: 352px;
+  top: 14337px;
+  left: 1069px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-77 {
+  position: absolute;
+  width: 35px;
+  height: 34px;
+  top: 14334px;
+  left: 1026px;
+}
+
+.frame .element-68 {
+  height: 105px;
+  top: 14394px;
+  left: 1069px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-60 {
+  position: absolute;
+  width: 42px;
+  height: 38px;
+  top: 14384px;
+  left: 1022px;
+}
+
+.frame .date-61 {
+  position: absolute;
+  width: 42px;
+  height: 39px;
+  top: 14435px;
+  left: 1022px;
+}
+
+.frame .vector-78 {
+  position: absolute;
+  width: 27px;
+  height: 33px;
+  top: 14474px;
+  left: 1029px;
+}
+
+.frame .vector-79 {
+  position: absolute;
+  width: 21px;
+  height: 19px;
+  top: 14480px;
+  left: 1033px;
+}
+
+.frame .date-62 {
+  position: absolute;
+  width: 42px;
+  height: 36px;
+  top: 14519px;
+  left: 1022px;
+}
+
+.frame .element-69 {
+  width: 378px;
+  top: 14524px;
+  left: 1069px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-12 {
+  width: 134px;
+  height: 140px;
+  top: 14038px;
+  left: 1178px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-79 {
+  position: absolute;
+  width: 488px;
+  height: 890px;
+  top: 14849px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-80 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 14875px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(255, 0, 244.8) 0%, rgb(118.23, 0, 99.32) 100%);
+}
+
+.frame .rectangle-81 {
+  position: absolute;
+  width: 488px;
+  height: 32px;
+  top: 15673px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(255, 0, 244.8) 0%, rgb(118.23, 0, 99.32) 100%);
+}
+
+.frame .text-wrapper-49 {
+  width: 138px;
+  top: 14941px;
+  left: 396px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-70 {
+  width: 353px;
+  top: 15322px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-80 {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 15321px;
+  left: 245px;
+}
+
+.frame .element-71 {
+  height: 105px;
+  top: 15381px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-63 {
+  position: absolute;
+  width: 40px;
+  height: 37px;
+  top: 15369px;
+  left: 242px;
+}
+
+.frame .date-64 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 15414px;
+  left: 242px;
+}
+
+.frame .vector-81 {
+  position: absolute;
+  width: 30px;
+  height: 34px;
+  top: 15459px;
+  left: 245px;
+}
+
+.frame .vector-82 {
+  position: absolute;
+  width: 21px;
+  height: 16px;
+  top: 15466px;
+  left: 250px;
+}
+
+.frame .date-65 {
+  position: absolute;
+  width: 40px;
+  height: 42px;
+  top: 15499px;
+  left: 242px;
+}
+
+.frame .element-72 {
+  width: 378px;
+  top: 15507px;
+  left: 288px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-13 {
+  width: 134px;
+  height: 139px;
+  top: 15025px;
+  left: 390px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-82 {
+  position: absolute;
+  width: 488px;
+  height: 889px;
+  top: 15829px;
+  left: 208px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-83 {
+  position: absolute;
+  width: 488px;
+  height: 35px;
+  top: 15853px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(173.4, 0, 255) 0%, rgb(83.41, 0, 96.98) 100%);
+}
+
+.frame .rectangle-84 {
+  position: absolute;
+  width: 488px;
+  height: 30px;
+  top: 16660px;
+  left: 208px;
+  background: linear-gradient(180deg, rgb(173.4, 0, 255) 0%, rgb(83.41, 0, 96.98) 100%);
+}
+
+.frame .text-wrapper-50 {
+  width: 235px;
+  top: 15925px;
+  left: 339px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-73 {
+  width: 353px;
+  top: 16305px;
+  left: 288px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-83 {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 16302px;
+  left: 245px;
+}
+
+.frame .element-74 {
+  height: 105px;
+  top: 16360px;
+  left: 288px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-66 {
+  position: absolute;
+  width: 40px;
+  height: 43px;
+  top: 16348px;
+  left: 242px;
+}
+
+.frame .date-67 {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 16399px;
+  left: 242px;
+}
+
+.frame .vector-84 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 16446px;
+  left: 245px;
+}
+
+.frame .vector-85 {
+  position: absolute;
+  width: 21px;
+  height: 16px;
+  top: 16453px;
+  left: 252px;
+}
+
+.frame .date-68 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  top: 16482px;
+  left: 242px;
+}
+
+.frame .element-75 {
+  width: 378px;
+  top: 16486px;
+  left: 288px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .user-9 {
+  position: absolute;
+  width: 129px;
+  height: 136px;
+  top: 16001px;
+  left: 389px;
+}
+
+.frame .rectangle-85 {
+  position: absolute;
+  width: 493px;
+  height: 888px;
+  top: 16815px;
+  left: 202px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-86 {
+  position: absolute;
+  width: 493px;
+  height: 34px;
+  top: 16838px;
+  left: 202px;
+  background: linear-gradient(180deg, rgb(0, 255, 86.7) 0%, rgb(0, 151.29, 96.82) 100%);
+}
+
+.frame .rectangle-87 {
+  position: absolute;
+  width: 493px;
+  height: 37px;
+  top: 17638px;
+  left: 202px;
+  background: linear-gradient(180deg, rgb(0, 255, 86.7) 0%, rgb(0, 151.29, 96.82) 100%);
+}
+
+.frame .text-wrapper-51 {
+  width: 123px;
+  top: 16904px;
+  left: 386px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-76 {
+  width: 351px;
+  top: 17286px;
+  left: 284px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-86 {
+  position: absolute;
+  width: 36px;
+  height: 35px;
+  top: 17284px;
+  left: 241px;
+}
+
+.frame .element-77 {
+  height: 105px;
+  top: 17345px;
+  left: 284px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-69 {
+  position: absolute;
+  width: 42px;
+  height: 41px;
+  top: 17333px;
+  left: 238px;
+}
+
+.frame .date-70 {
+  position: absolute;
+  width: 42px;
+  height: 37px;
+  top: 17383px;
+  left: 238px;
+}
+
+.frame .vector-87 {
+  position: absolute;
+  width: 30px;
+  height: 37px;
+  top: 17421px;
+  left: 244px;
+}
+
+.frame .vector-88 {
+  position: absolute;
+  width: 19px;
+  height: 18px;
+  top: 17431px;
+  left: 250px;
+}
+
+.frame .date-71 {
+  position: absolute;
+  width: 42px;
+  height: 37px;
+  top: 17467px;
+  left: 238px;
+}
+
+.frame .element-78 {
+  width: 377px;
+  top: 17473px;
+  left: 284px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .user-10 {
+  position: absolute;
+  width: 131px;
+  height: 141px;
+  top: 16983px;
+  left: 384px;
+}
+
+.frame .rectangle-88 {
+  position: absolute;
+  width: 493px;
+  height: 886px;
+  top: 17797px;
+  left: 202px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-89 {
+  position: absolute;
+  width: 493px;
+  height: 33px;
+  top: 18623px;
+  left: 202px;
+  background: linear-gradient(180deg, rgb(255, 244.8, 0) 0%, rgb(119.37, 255, 173.62) 100%);
+}
+
+.frame .rectangle-90 {
+  position: absolute;
+  width: 489px;
+  height: 30px;
+  top: 17821px;
+  left: 210px;
+  background: linear-gradient(180deg, rgb(255, 244.8, 0) 0%, rgb(119.37, 255, 173.62) 100%);
+}
+
+.frame .text-wrapper-52 {
+  width: 153px;
+  top: 17885px;
+  left: 389px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-79 {
+  width: 351px;
+  top: 18268px;
+  left: 284px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-89 {
+  position: absolute;
+  width: 36px;
+  height: 34px;
+  top: 18263px;
+  left: 241px;
+}
+
+.frame .element-80 {
+  height: 105px;
+  top: 18325px;
+  left: 284px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-72 {
+  position: absolute;
+  width: 42px;
+  height: 38px;
+  top: 18315px;
+  left: 238px;
+}
+
+.frame .date-73 {
+  position: absolute;
+  width: 42px;
+  height: 41px;
+  top: 18364px;
+  left: 238px;
+}
+
+.frame .vector-90 {
+  position: absolute;
+  width: 30px;
+  height: 33px;
+  top: 18408px;
+  left: 244px;
+}
+
+.frame .vector-91 {
+  position: absolute;
+  width: 19px;
+  height: 18px;
+  top: 18417px;
+  left: 250px;
+}
+
+.frame .date-74 {
+  position: absolute;
+  width: 42px;
+  height: 36px;
+  top: 18450px;
+  left: 238px;
+}
+
+.frame .element-81 {
+  width: 377px;
+  top: 18455px;
+  left: 284px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-91 {
+  position: absolute;
+  width: 489px;
+  height: 890px;
+  top: 14849px;
+  left: 989px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-92 {
+  position: absolute;
+  width: 489px;
+  height: 30px;
+  top: 14875px;
+  left: 989px;
+  background: linear-gradient(180deg, rgb(255, 134.71, 214.1) 0%, rgb(228.94, 154.78, 255) 100%);
+}
+
+.frame .rectangle-93 {
+  position: absolute;
+  width: 489px;
+  height: 32px;
+  top: 15673px;
+  left: 989px;
+  background: linear-gradient(180deg, rgb(255, 134.71, 214.1) 0%, rgb(228.94, 154.78, 255) 100%);
+}
+
+.frame .text-wrapper-53 {
+  width: 134px;
+  top: 14941px;
+  left: 1178px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-82 {
+  width: 352px;
+  top: 15322px;
+  left: 1069px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-92 {
+  position: absolute;
+  width: 35px;
+  height: 30px;
+  top: 15321px;
+  left: 1026px;
+}
+
+.frame .element-83 {
+  height: 105px;
+  top: 15381px;
+  left: 1069px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-75 {
+  position: absolute;
+  width: 42px;
+  height: 37px;
+  top: 15369px;
+  left: 1022px;
+}
+
+.frame .date-76 {
+  position: absolute;
+  width: 42px;
+  height: 39px;
+  top: 15414px;
+  left: 1022px;
+}
+
+.frame .vector-93 {
+  position: absolute;
+  width: 27px;
+  height: 34px;
+  top: 15457px;
+  left: 1026px;
+}
+
+.frame .vector-94 {
+  position: absolute;
+  width: 21px;
+  height: 16px;
+  top: 15466px;
+  left: 1030px;
+}
+
+.frame .date-77 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 15499px;
+  left: 1022px;
+}
+
+.frame .element-84 {
+  width: 378px;
+  top: 15507px;
+  left: 1069px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-14 {
+  width: 134px;
+  height: 141px;
+  top: 15034px;
+  left: 1178px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-94 {
+  position: absolute;
+  width: 489px;
+  height: 889px;
+  top: 15829px;
+  left: 989px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-95 {
+  position: absolute;
+  width: 489px;
+  height: 35px;
+  top: 15853px;
+  left: 989px;
+  background: linear-gradient(180deg, rgb(255, 137.7, 0) 0%, rgb(143.02, 77.23, 0) 100%);
+}
+
+.frame .rectangle-96 {
+  position: absolute;
+  width: 489px;
+  height: 30px;
+  top: 16660px;
+  left: 989px;
+  background: linear-gradient(180deg, rgb(255, 137.7, 0) 0%, rgb(143.02, 77.23, 0) 100%);
+}
+
+.frame .text-wrapper-54 {
+  width: 98px;
+  top: 15923px;
+  left: 1203px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-85 {
+  width: 352px;
+  top: 16305px;
+  left: 1069px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-95 {
+  position: absolute;
+  width: 35px;
+  height: 30px;
+  top: 16302px;
+  left: 1026px;
+}
+
+.frame .element-86 {
+  height: 105px;
+  top: 16360px;
+  left: 1069px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-78 {
+  position: absolute;
+  width: 42px;
+  height: 43px;
+  top: 16348px;
+  left: 1022px;
+}
+
+.frame .date-79 {
+  position: absolute;
+  width: 42px;
+  height: 41px;
+  top: 16399px;
+  left: 1022px;
+}
+
+.frame .vector-96 {
+  position: absolute;
+  width: 27px;
+  height: 30px;
+  top: 16443px;
+  left: 1029px;
+}
+
+.frame .vector-97 {
+  position: absolute;
+  width: 21px;
+  height: 16px;
+  top: 16448px;
+  left: 1033px;
+}
+
+.frame .date-80 {
+  position: absolute;
+  width: 42px;
+  height: 39px;
+  top: 16482px;
+  left: 1022px;
+}
+
+.frame .element-87 {
+  width: 378px;
+  top: 16486px;
+  left: 1069px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-15 {
+  width: 136px;
+  height: 136px;
+  top: 16001px;
+  left: 1184px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-97 {
+  position: absolute;
+  width: 489px;
+  height: 888px;
+  top: 16815px;
+  left: 984px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-98 {
+  position: absolute;
+  width: 489px;
+  height: 34px;
+  top: 16838px;
+  left: 984px;
+  background: linear-gradient(180deg, rgb(238.66, 138.25, 255) 0%, rgb(154.78, 255, 242.97) 100%);
+}
+
+.frame .rectangle-99 {
+  position: absolute;
+  width: 489px;
+  height: 37px;
+  top: 17638px;
+  left: 984px;
+  background: linear-gradient(180deg, rgb(238.66, 138.25, 255) 0%, rgb(154.78, 255, 242.97) 100%);
+}
+
+.frame .text-wrapper-55 {
+  width: 106px;
+  top: 16906px;
+  left: 1190px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-88 {
+  width: 353px;
+  top: 17286px;
+  left: 1066px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-98 {
+  position: absolute;
+  width: 36px;
+  height: 35px;
+  top: 17284px;
+  left: 1022px;
+}
+
+.frame .element-89 {
+  height: 105px;
+  top: 17345px;
+  left: 1066px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-81 {
+  position: absolute;
+  width: 39px;
+  height: 41px;
+  top: 17333px;
+  left: 1020px;
+}
+
+.frame .date-82 {
+  position: absolute;
+  width: 39px;
+  height: 37px;
+  top: 17383px;
+  left: 1020px;
+}
+
+.frame .vector-99 {
+  position: absolute;
+  width: 28px;
+  height: 37px;
+  top: 17421px;
+  left: 1026px;
+}
+
+.frame .vector-100 {
+  position: absolute;
+  width: 20px;
+  height: 18px;
+  top: 17431px;
+  left: 1030px;
+}
+
+.frame .date-83 {
+  position: absolute;
+  width: 39px;
+  height: 37px;
+  top: 17467px;
+  left: 1020px;
+}
+
+.frame .element-90 {
+  width: 377px;
+  top: 17473px;
+  left: 1066px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-16 {
+  width: 134px;
+  height: 141px;
+  top: 17968px;
+  left: 384px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-100 {
+  position: absolute;
+  width: 489px;
+  height: 886px;
+  top: 17797px;
+  left: 984px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-101 {
+  position: absolute;
+  width: 489px;
+  height: 30px;
+  top: 17821px;
+  left: 984px;
+  background: linear-gradient(180deg, rgb(225.66, 0, 148.94) 0%, rgb(202.07, 134.71, 255) 100%);
+}
+
+.frame .rectangle-102 {
+  position: absolute;
+  width: 489px;
+  height: 33px;
+  top: 18623px;
+  left: 984px;
+  background: linear-gradient(180deg, rgb(225.66, 0, 148.94) 0%, rgb(202.07, 134.71, 255) 100%);
+}
+
+.frame .text-wrapper-56 {
+  width: 105px;
+  top: 17891px;
+  left: 1181px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-91 {
+  width: 353px;
+  top: 18268px;
+  left: 1066px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-101 {
+  position: absolute;
+  width: 36px;
+  height: 34px;
+  top: 18263px;
+  left: 1023px;
+}
+
+.frame .element-92 {
+  height: 105px;
+  top: 18325px;
+  left: 1066px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-84 {
+  position: absolute;
+  width: 39px;
+  height: 38px;
+  top: 18315px;
+  left: 1020px;
+}
+
+.frame .date-85 {
+  position: absolute;
+  width: 39px;
+  height: 41px;
+  top: 18364px;
+  left: 1020px;
+}
+
+.frame .vector-102 {
+  position: absolute;
+  width: 28px;
+  height: 33px;
+  top: 18408px;
+  left: 1023px;
+}
+
+.frame .vector-103 {
+  position: absolute;
+  width: 20px;
+  height: 18px;
+  top: 18413px;
+  left: 1030px;
+}
+
+.frame .date-86 {
+  position: absolute;
+  width: 39px;
+  height: 36px;
+  top: 18450px;
+  left: 1020px;
+}
+
+.frame .element-93 {
+  width: 377px;
+  top: 18455px;
+  left: 1066px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-17 {
+  width: 134px;
+  height: 141px;
+  top: 17968px;
+  left: 1167px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-18 {
+  width: 136px;
+  height: 141px;
+  top: 16983px;
+  left: 1175px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-103 {
+  position: absolute;
+  width: 493px;
+  height: 890px;
+  top: 18780px;
+  left: 202px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-104 {
+  position: absolute;
+  width: 493px;
+  height: 32px;
+  top: 18806px;
+  left: 202px;
+  background: linear-gradient(180deg, rgb(167.77, 255, 213.13) 0%, rgb(0, 125.32, 110.28) 100%);
+}
+
+.frame .rectangle-105 {
+  position: absolute;
+  width: 493px;
+  height: 34px;
+  top: 19606px;
+  left: 202px;
+  background: linear-gradient(180deg, rgb(167.77, 255, 213.13) 0%, rgb(0, 125.32, 110.28) 100%);
+}
+
+.frame .text-wrapper-57 {
+  width: 134px;
+  top: 18872px;
+  left: 393px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-94 {
+  width: 351px;
+  top: 19255px;
+  left: 284px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-104 {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 19252px;
+  left: 241px;
+}
+
+.frame .element-95 {
+  height: 105px;
+  top: 19312px;
+  left: 284px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-87 {
+  position: absolute;
+  width: 42px;
+  height: 37px;
+  top: 19300px;
+  left: 238px;
+}
+
+.frame .date-88 {
+  position: absolute;
+  width: 42px;
+  height: 41px;
+  top: 19345px;
+  left: 238px;
+}
+
+.frame .vector-105 {
+  position: absolute;
+  width: 30px;
+  height: 34px;
+  top: 19386px;
+  left: 244px;
+}
+
+.frame .vector-106 {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 19391px;
+  left: 250px;
+}
+
+.frame .date-89 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 19430px;
+  left: 238px;
+}
+
+.frame .element-96 {
+  width: 377px;
+  top: 19436px;
+  left: 284px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .user-11 {
+  position: absolute;
+  width: 131px;
+  height: 141px;
+  top: 18951px;
+  left: 394px;
+}
+
+.frame .rectangle-106 {
+  position: absolute;
+  width: 488px;
+  height: 890px;
+  top: 18780px;
+  left: 983px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-107 {
+  position: absolute;
+  width: 488px;
+  height: 32px;
+  top: 18806px;
+  left: 983px;
+  background: linear-gradient(180deg, rgb(255, 167.77, 214.87) 0%, rgb(163.05, 255, 243.97) 100%);
+}
+
+.frame .rectangle-108 {
+  position: absolute;
+  width: 488px;
+  height: 34px;
+  top: 19606px;
+  left: 983px;
+  background: linear-gradient(180deg, rgb(255, 167.77, 214.87) 0%, rgb(163.05, 255, 243.97) 100%);
+}
+
+.frame .text-wrapper-58 {
+  width: 119px;
+  top: 18872px;
+  left: 1180px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-97 {
+  width: 351px;
+  top: 19255px;
+  left: 1064px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-107 {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 19252px;
+  left: 1020px;
+}
+
+.frame .element-98 {
+  height: 105px;
+  top: 19312px;
+  left: 1064px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-90 {
+  position: absolute;
+  width: 40px;
+  height: 37px;
+  top: 19300px;
+  left: 1018px;
+}
+
+.frame .date-91 {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 19345px;
+  left: 1018px;
+}
+
+.frame .vector-108 {
+  position: absolute;
+  width: 32px;
+  height: 34px;
+  top: 19391px;
+  left: 1022px;
+}
+
+.frame .vector-109 {
+  position: absolute;
+  width: 18px;
+  height: 19px;
+  top: 19398px;
+  left: 1029px;
+}
+
+.frame .date-92 {
+  position: absolute;
+  width: 40px;
+  height: 42px;
+  top: 19430px;
+  left: 1018px;
+}
+
+.frame .element-99 {
+  width: 378px;
+  top: 19436px;
+  left: 1064px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-19 {
+  width: 134px;
+  height: 143px;
+  top: 18949px;
+  left: 1173px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-109 {
+  position: absolute;
+  width: 493px;
+  height: 890px;
+  top: 19759px;
+  left: 202px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-110 {
+  position: absolute;
+  width: 493px;
+  height: 35px;
+  top: 19784px;
+  left: 202px;
+  background: linear-gradient(180deg, rgb(0, 255, 255) 0%, rgb(177.21, 255, 231.66) 100%);
+}
+
+.frame .rectangle-111 {
+  position: absolute;
+  width: 493px;
+  height: 30px;
+  top: 20591px;
+  left: 202px;
+  background: linear-gradient(180deg, rgb(0, 255, 255) 0%, rgb(177.21, 255, 231.66) 100%);
+}
+
+.frame .text-wrapper-59 {
+  width: 111px;
+  top: 19848px;
+  left: 395px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-100 {
+  width: 351px;
+  top: 20236px;
+  left: 284px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-110 {
+  position: absolute;
+  width: 36px;
+  height: 32px;
+  top: 20232px;
+  left: 241px;
+}
+
+.frame .element-101 {
+  height: 105px;
+  top: 20291px;
+  left: 284px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-93 {
+  position: absolute;
+  width: 42px;
+  height: 43px;
+  top: 20279px;
+  left: 238px;
+}
+
+.frame .date-94 {
+  position: absolute;
+  width: 42px;
+  height: 35px;
+  top: 20332px;
+  left: 238px;
+}
+
+.frame .vector-111 {
+  position: absolute;
+  width: 30px;
+  height: 32px;
+  top: 20371px;
+  left: 246px;
+}
+
+.frame .vector-112 {
+  position: absolute;
+  width: 19px;
+  height: 14px;
+  top: 20378px;
+  left: 252px;
+}
+
+.frame .date-95 {
+  position: absolute;
+  width: 42px;
+  height: 39px;
+  top: 20413px;
+  left: 238px;
+}
+
+.frame .element-102 {
+  width: 377px;
+  top: 20417px;
+  left: 284px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-20 {
+  width: 134px;
+  height: 139px;
+  top: 19932px;
+  left: 384px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-112 {
+  position: absolute;
+  width: 489px;
+  height: 890px;
+  top: 19759px;
+  left: 979px;
+  background-color: #f8f8f8;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+}
+
+.frame .rectangle-113 {
+  position: absolute;
+  width: 489px;
+  height: 35px;
+  top: 19784px;
+  left: 979px;
+  background: linear-gradient(180deg, rgb(255, 231.13, 146.52) 0%, rgb(168.21, 255, 146.52) 100%);
+}
+
+.frame .rectangle-114 {
+  position: absolute;
+  width: 489px;
+  height: 30px;
+  top: 20591px;
+  left: 979px;
+  background: linear-gradient(180deg, rgb(255, 231.13, 146.52) 0%, rgb(168.21, 255, 146.52) 100%);
+}
+
+.frame .text-wrapper-60 {
+  width: 95px;
+  top: 19855px;
+  left: 1187px;
+  font-weight: 900;
+  color: #000000;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-103 {
+  width: 352px;
+  top: 20236px;
+  left: 1059px;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-113 {
+  position: absolute;
+  width: 34px;
+  height: 32px;
+  top: 20232px;
+  left: 1018px;
+}
+
+.frame .element-104 {
+  height: 105px;
+  top: 20291px;
+  left: 1059px;
+  position: absolute;
+  width: 338px;
+}
+
+.frame .date-96 {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 20279px;
+  left: 1013px;
+}
+
+.frame .date-97 {
+  position: absolute;
+  width: 43px;
+  height: 35px;
+  top: 20332px;
+  left: 1013px;
+}
+
+.frame .vector-114 {
+  position: absolute;
+  width: 27px;
+  height: 32px;
+  top: 20374px;
+  left: 1018px;
+}
+
+.frame .vector-115 {
+  position: absolute;
+  width: 19px;
+  height: 14px;
+  top: 20382px;
+  left: 1026px;
+}
+
+.frame .date-98 {
+  position: absolute;
+  width: 43px;
+  height: 39px;
+  top: 20413px;
+  left: 1013px;
+}
+
+.frame .element-105 {
+  width: 378px;
+  top: 20417px;
+  left: 1059px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-21 {
+  width: 135px;
+  height: 139px;
+  top: 19932px;
+  left: 1159px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .vector-116 {
+  position: absolute;
+  width: 47px;
+  height: 5px;
+  top: 3665px;
+  left: 1255px;
+}
